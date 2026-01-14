@@ -1,6 +1,6 @@
 # Video Games Sales Analytics Dashboard
 
-![Overview](images/overview.png)
+![Overview](images/video-overview-1.1.jpg)
 
 **Interactive 3-page dashboard analyzing 17K+ games, 8.2B sales, 1.44B platforms across publishers/genres/regions with console lifecycle comparisons (PS vs. Xbox vs. Nintendo).**
 
